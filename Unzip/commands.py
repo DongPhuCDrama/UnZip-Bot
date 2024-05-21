@@ -38,7 +38,7 @@ async def help_command(client, message):
         "/start - Start the bot and get the welcome message\n"
         "/help - Get help on how to use the bot\n\n"
         "To unzip a file, simply send me a ZIP file and I will extract its contents and send them back to you.\n\n"
-        "©️ Channel : @NT_BOT_CHANNEL"
+        "©️ Channel : @phu_edit_gm"
     )
     await message.reply(help_message)
     
